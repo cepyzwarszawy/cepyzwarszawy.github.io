@@ -23,7 +23,7 @@
 }
 </style>
 </head>
-  <meta http-equiv="refresh" content="0; url=index.html">
+  <meta http-equiv="refresh" content="0; url=http://cepy-strona-damiantustanowski974605.codeanyapp.com/index.html">
 <body>
 
 <div class="loader"></div>
