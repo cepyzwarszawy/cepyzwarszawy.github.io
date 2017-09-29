@@ -21,7 +21,7 @@
 }
 </style>
 </head>
-  <meta http-equiv="refresh" content="0; url=83.31.148.53:9058>
+  <meta http-equiv="refresh" content="0; url="http://83.31.148.53:9058">
 <body>
 <div class="loader"></div>
 </body>
